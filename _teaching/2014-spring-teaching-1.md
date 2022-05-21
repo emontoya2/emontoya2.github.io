@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Fall 22"
 collection: teaching
-type: "Undergraduate course"
+type: "Math 4210"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: " "
+location: "TBA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course descripton...
 
 Heading 1
 ======
