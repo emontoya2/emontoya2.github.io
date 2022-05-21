@@ -1,0 +1,2 @@
+---
+BUNDLE_BUILD__EVENTMACHINE: "--with-openssl-dir=$(brew --prefix openssl@1.1)"
