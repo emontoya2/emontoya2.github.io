@@ -30,3 +30,5 @@ group :jekyll_plugins do
   gem 'eventmachine' 
 
 end
+
+gem "webrick", "~> 1.7"
