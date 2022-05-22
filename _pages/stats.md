@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Statistics Concentration/Minor"
+permalink: /stats/
 author_profile: true
 ---
 
