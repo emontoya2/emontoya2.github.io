@@ -15,11 +15,11 @@ I am a Professor of Statistics in the  [Department of Mathematics](https://www.c
 Education
 ======
 University of California, Santa Barbara 
-  + Ph.D., Statistics and Applied Probability	August 2009
-  + M.A., Statistics	December 2004
+  + Ph.D., Statistics and Applied Probability, 2009
+  + M.A., Statistics, 2004
 
 California State University, Bakersfield
-  + B.S., Mathematics
+  + B.S., Mathematics, 2003
 
  <br>
  
