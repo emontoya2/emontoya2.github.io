@@ -2,20 +2,23 @@
 layout: archive
 title: "Statistics Concentration/Minor"
 permalink: /stats/
-author_profile: true
+author_profile: true 
 header:
     overlay_image: data.jpg 
     overlay_filter: 0.051
 ---
 
-## Study statistics if you are interested in being ...
+## Study statistics if you are interested in pursuing a field that will involve data or in being a...
 
-+ a data analyst 
-+ a data scientist 
-+ a actuary 
-+ a market researcher 
-+ in pursuing a field that will involve data 
- 
++ data analyst 
++ data scientist 
++ actuary 
++ market researcher 
+
+Studying statistics can lead to many different and interesting careers. For some examples, check out  <a href="https://thisisstatistics.org/" target="_blank">thisisstatistics.org.</a>
+  
+
+
 ## Why study statistics?
 
 + Data drives almost every corner of our world from Economics to Nursing to Psychology and everything in between. Statistics is the science of learning from data in order to make decisions when faced with uncertainty. Whether you are planning to get a job right after graduation or planning to pursue an advanced degree, you will need to understand how to use data to support decision making in the presence of uncertainty. The ability to conduct data visualization, modeling, inferences, and prediction is becoming increasingly important to employers.

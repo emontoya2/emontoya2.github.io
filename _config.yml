@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eduardo Montoya, Ph.D."
-  avatar           : "profile.png"
+  avatar           : "profile.png" 
   bio              : "Professor of Statistics; Statistical consultant"
   location         : "Bakersfield, CA"
   employer         : "Dept. of Mathematics" 
