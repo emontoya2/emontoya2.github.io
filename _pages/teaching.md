@@ -3,7 +3,12 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+header:
+    overlay_image: res3.png 
+    overlay_filter: 0.1
 ---
+
+
 
 
 ## Fall 2022

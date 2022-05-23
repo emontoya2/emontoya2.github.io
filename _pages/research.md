@@ -3,6 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+header:
+    overlay_image: res2a.png 
+    overlay_filter: 0.1
 ---
 
 ## Research Interest

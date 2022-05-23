@@ -3,6 +3,9 @@ layout: archive
 title: "Statistics Concentration/Minor"
 permalink: /stats/
 author_profile: true
+header:
+    overlay_image: data.jpg 
+    overlay_filter: 0.051
 ---
 
 ## Study statistics if you are interested in being ...

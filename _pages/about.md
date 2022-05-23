@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+    overlay_image: csub.jpg 
+    overlay_filter: 0.1
 ---
+
 
 I am a Professor of Statistics in the  [Department of Mathematics](https://www.csub.edu/math/) at  [California State University, Bakersfield](https://www.csub.edu) (CSUB). Before coming to CSUB, I received my Ph.D. in Statistics and Applied Probability at [UC Santa Barbara](https://www.pstat.ucsb.edu/) in 2009. My research interests focus on regression smoothing methods, functional data analysis, computational statistics, data mining techniques, and collaborating with researchers in a variety of fields. I also have a passing interest in the field of statistics education. 
 
