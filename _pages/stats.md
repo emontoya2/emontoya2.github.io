@@ -11,7 +11,7 @@ author_profile: true
 + a data scientist 
 + a actuary 
 + a market researcher 
-+ in pursuing a field that will involve data? 
++ in pursuing a field that will involve data 
  
 ## Why study statistics?
 
