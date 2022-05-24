@@ -13,6 +13,16 @@ header:
 
  
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-45960001-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-45960001-1');
+</script>  
+
 I am a Professor of Statistics in the  <a href="https://www.csub.edu/math/" target="_blank"> Department of Mathematics </a> at  <a href="linhttps://www.csub.edu" target="_blank"> California State University, Bakersfield </a> (CSUB). Before coming to CSUB, I received my Ph.D. in Statistics and Applied Probability at <a href="https://www.pstat.ucsb.edu/" target="_blank"> UC Santa Barbara </a> in 2009. My research interests focus on regression smoothing methods, functional data analysis, computational statistics, data mining techniques, and collaborating with researchers in a variety of fields. I also have a passing interest in the field of statistics education. 
 
  <br>
