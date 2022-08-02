@@ -14,7 +14,7 @@ header:
 ## Fall 2022
 
 * Math 2200:  Introduction to Statistical Concepts and Methods
-    + <a href="https://www.csub.edu/~emontoya2/2200-02" target="_blank"> Section 02 </a>
+    + <a href="https://www.csub.edu/~emontoya2/2200-02" target="_blank"> Section 2 </a>
     + <a href="https://www.csub.edu/~emontoya2/2200-03" target="_blank"> Section 03 </a>
         + Course Description: This course is an introduction to statistical methods which stresses the development of critical thinking skills and increased awareness of how these methods are applied in a variety of disciplines. It is designed to give students a foundation for further study of statistics. Topics include: descriptive statistics, sampling and experimentation, confidence intervals, two-sample hypothesis tests for means, topics in categorical data analysis, and simple linear regression. Additional topics may include one way and two-way ANOVA for completely randomized designs. This course will emphasize the statistical reasoning underlying the methods and make use of the mathematical software program R.  
     
