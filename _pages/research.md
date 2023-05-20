@@ -10,9 +10,11 @@ header:
 
 ## Research Interest
 
-+ Environmental statistics -- development and application of statistical methods to environmental science
++ Environmental statistics -- development and application of statistical methods in the environmental sciences
 
 + Functional Data Analysis --  statistical analysis of data samples consisting of random functions or surfaces
+
++ Computational statistics -- development and application of computational and graphical approaches to solving statistical problems.
 
 + Data mining methods -- analysis of observational data to find unsuspected relationships
 
