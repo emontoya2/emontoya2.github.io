@@ -42,6 +42,7 @@ Experience
 ======
 California State University, Bakersfield
   + Professor of Statistics, 2020 – present
+  + Faculty Director of General Education, 	 2023-present
   + Director of the CSUB CREST Center, 	 2016-2022
   + Associate Professor of Statistics, 2015 – 2020
   + Assistant Professor of Statistics, 2009 – 2015
