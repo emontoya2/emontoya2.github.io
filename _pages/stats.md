@@ -50,7 +50,7 @@ The **Minor in Applied Statistics** requires at least **four courses** chosen fr
 
 ### **Recommended for most students:**
 
-- **MATH 2200**: Introduction to Statistical Concepts and Methods
+- **MATH 2200**: Introduction to Statistical Concepts and Methods *(Fall, Spring)*
 - **MATH 3210**: Applied Statistical Computing and Multivariate Methods *(Fall)*
 - **MATH 4210**: Regression Modeling and Analysis *(Fall)*
 - **MATH 4230**: Applied Statistical Methods for Data Science *(Spring)*  
