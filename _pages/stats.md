@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Statistics Concentration/Minor"
+title: "Explore Statistics & Data Science at CSUB"
 permalink: /stats/
 author_profile: true 
 header:
@@ -10,7 +10,7 @@ header:
 
 ## Explore Statistical Data Science or Applied Statistics
 
-Want to turn data into insights? Whether you're interested in data science, business analytics, or research, a concentration in Statistical Data Science or a minor in Applied Statistics equips you with the tools to analyze data and make informed decisions.  
+Want to turn data into insights? Whether you're interested in data science, business analytics, or research, a concentration in Statistical Data Science or a minor in Applied Statistics equips you with the tools to analyze data and make informed decisions.   
 
 Potential career paths include:
 - Data Analyst
@@ -58,12 +58,12 @@ The **Minor in Applied Statistics** requires at least **four courses** chosen fr
 ### **Other options based on interest:**  
 - **MATH 3200**: Probability Theory *(Fall, Spring; Calculus-based)*  
 - **MATH 4200**: Mathematical Statistics *(Spring; Calculus-based)*  
-
+ 
 ---
 
 ### **Concentration in Statistical Data Science**
 
-The **Concentration in Statistical Data Science** provides a more **comprehensive and structured** curriculum than the minor. It includes **a full sequence of statistics courses** that cover:  
+The **Concentration in Statistical Data Science** provides a **comprehensive and structured** curriculum that includes **a full sequence of statistics courses** that cover:  
 - **Data Science Foundations** (Statistical computing, regression modeling, and data science methods)  
 - **Mathematical Statistics & Probability** *(for students interested in theoretical foundations)*  
 - **Computational & Applied Methods** (Multivariate analysis, data visualization, and predictive modeling)  
