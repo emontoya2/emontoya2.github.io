@@ -8,29 +8,71 @@ header:
     overlay_filter: 0.051
 ---
 
-## Study statistics 
-Interested in a career that involves data analysis and decision-making in the face of uncertainty? Consider a concentration or minor in Statistics. Potential career paths include:
+## Explore Statistical Data Science or Applied Statistics
 
+Want to turn data into insights? Whether you're interested in data science, business analytics, or research, a concentration in Statistical Data Science or a minor in Applied Statistics equips you with the tools to analyze data and make informed decisions.  
+
+Potential career paths include:
 - Data Analyst
 - Data Scientist
 - Actuary
 - Market Researcher 
+- High School Math Teacher (with a focus on statistics and data science)
 
-Studying statistics can lead to many different and interesting careers. For some examples, check out  <a href="https://thisisstatistics.org/" target="_blank">thisisstatistics.org.</a>
+Statistical Data Science and Applied Statistics open doors to high-impact careers across industries. For some examples, check out  <a href="https://thisisstatistics.org/" target="_blank">thisisstatistics.org.</a>
   
+---
+
+## Why Study Statistical Data Science?
 
 
-## Why study statistics?
+- **Data Powers Every Industry:** From **economics to healthcare**, data fuels decision-making. Statistical Data Science blends **statistical methods, computational techniques, and data visualization** to solve real-world problems.  
 
-- **Data in Every Field**: From Economics to Nursing, data drives decisions across all fields. Statistics is the science of learning from data, crucial for supporting decision-making.
+- **Essential and Versatile Skills:** A **minor in Applied Statistics** or a **concentration in Statistical Data Science** provides **quantitative, analytical, and programming skills** that complement any major—boosting career prospects and preparing you for graduate studies.  
 
-- **Essential Skills**: A minor or concentration in statistics equips you with essential skills that complement any major, enhancing employment opportunities and graduate study preparation.
+- **High Demand for Data & Statistics Education:** With the growing importance of **data-driven decision-making**, expertise in **statistics and machine learning** is highly sought after. Additionally, as high schools expand their statistics and data science offerings, **math teachers with a strong foundation in these fields** will be in demand.  
+ 
 
-- **Educational Opportunities**: With the growing popularity of AP Statistics, understanding statistics opens doors to teaching at various educational levels.
+--- 
+
+## **Opportunities for Future Math Educators**  
+
+If you're planning to **teach high school math**, consider a **double concentration in Statistical Data Science** or a **minor in Applied Statistics**. With the increasing importance of **AP Statistics and data science courses in K-12 education**, math teachers with specialized training in statistics will be highly sought after.  
+
+By adding a statistics or data science focus, future educators can **expand their teaching opportunities** and be better prepared for the **growing demand for quantitative literacy** in secondary education.  
+
+---
 
 
-## Minor requirements: 
+## Minor & Concentration Requirements  
 
-+ The minor requires at least four courses chosen from MATH 2200, 3200, 3210, 4200, 4210, and 4220. The concentration requires all statistics courses. 
+The **Minor in Applied Statistics** requires at least **four courses** chosen from the following:
 
-+ Interested in learning more? **[Contact me](mailto:emontoya2@csub.edu)** to discuss how a minor in statistics can complement your career goals.
+### **Recommended for most students:**
+
+- **MATH 2200**: Introduction to Statistical Concepts and Methods
+- **MATH 3210**: Applied Statistical Computing and Multivariate Methods *(Fall)*
+- **MATH 4210**: Regression Modeling and Analysis *(Fall)*
+- **MATH 4230**: Applied Statistical Methods for Data Science *(Spring)*  
+
+### **Other options based on interest:**  
+- **MATH 3200**: Probability Theory *(Fall, Spring; Calculus-based)*  
+- **MATH 4200**: Mathematical Statistics *(Spring; Calculus-based)*  
+
+---
+
+### **Concentration in Statistical Data Science**
+
+The **Concentration in Statistical Data Science** provides a more **comprehensive and structured** curriculum than the minor. It includes **a full sequence of statistics courses** that cover:  
+- **Data Science Foundations** (Statistical computing, regression modeling, and data science methods)  
+- **Mathematical Statistics & Probability** *(for students interested in theoretical foundations)*  
+- **Computational & Applied Methods** (Multivariate analysis, data visualization, and predictive modeling)  
+
+For detailed course descriptions, visit the **[CSUB Mathematics Course Catalog](https://catalog.csub.edu/course-descriptions/math/)**.  
+
+---
+
+### **Interested in Learning More?**  
+
+**[Contact me](mailto:emontoya2@csub.edu)** to discuss how these programs can complement your career goals.  
+ 
