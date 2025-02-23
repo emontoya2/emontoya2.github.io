@@ -26,9 +26,9 @@ When time permits, I focus on developing **R packages** and **R Shiny applicatio
 
 - **tmsm**: An R package for *Training modules on selected statistical methods*
 
-- **SWEViz**: A Shiny app designed for visualizing snowpack (SWE) data across the Sierra Nevada. This tool allows users to interact with and analyze historical and current snowpack levels, aiding in environmental research and planning. The app features dynamic charts and maps, data filtering, and export options to facilitate in-depth study of snowpack trends.
+- **SWEViz**: A Shiny app designed for visualizing snowpack (SWE) data across the Sierra Nevada.  
 
-- **Model Explorer**: A new R Shiny app that lets students explore diagnostics and residuals analysis of linear models interactively. This tool is being designed to enhance learning by allowing students to visualize the effects of different model specifications and understand the importance of diagnostic tests in regression analysis.
+- **SkillTrackGE**: A new R Shiny app that lets students explore diagnostics and residuals analysis of linear models interactively. This tool is being designed to enhance learning by allowing students to visualize the effects of different model specifications and understand the importance of diagnostic tests in regression analysis.
 
 
 ## Interested in conducting research?
