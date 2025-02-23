@@ -28,8 +28,7 @@ When time permits, I focus on developing **R packages** and **R Shiny applicatio
 
 - **SWEViz**: A Shiny app designed for visualizing snowpack (SWE) data across the Sierra Nevada.  
 
-- **SkillTrackGE**: A new R Shiny app that lets students explore diagnostics and residuals analysis of linear models interactively. This tool is being designed to enhance learning by allowing students to visualize the effects of different model specifications and understand the importance of diagnostic tests in regression analysis.
-
+- **SkillTrackGE**: This interactive Shiny app allows one to explore and analyze the completion rates of key GE areas using data from a CSV file. It calculates the overall conditional and unconditional percentage of students who have not completed a selected GE area, providing a quick snapshot of foundational skills completion across your institution.
 
 ## Interested in conducting research?
 
