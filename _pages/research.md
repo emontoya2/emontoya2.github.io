@@ -24,7 +24,7 @@ header:
 
 When time permits, I focus on developing **R packages** and **R Shiny applications** that enhance the accessibility and applicability of statistical methods. Some of my current projects include:
 
-- **[CSUBstats](https://github.com/emontoya2/csubstats)**: An R packaged developed for use with *[Training modules on selected statistical methods](https://emontoya2.github.io/tmsm/) and future educational resources.
+- **[CSUBstats](https://github.com/emontoya2/csubstats)**: An R packaged developed for use with *[Training modules on selected statistical methods](https://emontoya2.github.io/tmsm/)* and future educational resources.
 
 - **[SWEViz](https://emontoya2.shinyapps.io/sweviz/)**: A Shiny app designed for visualizing snowpack (SWE) data across the Sierra Nevada.  
 
