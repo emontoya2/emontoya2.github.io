@@ -24,12 +24,11 @@ header:
 
 When time permits, I focus on developing **R packages** and **R Shiny applications** that enhance the accessibility and applicability of statistical methods. Some of my current projects include:
 
-- **tmsm**: An R package for *Training modules on selected statistical methods*
+- **[CSUBstats](https://github.com/emontoya2/csubstats)**: An R packaged developed for use with *[Training modules on selected statistical methods](https://emontoya2.github.io/tmsm/) and future educational resources.
 
-- **SWEViz**: A Shiny app designed for visualizing snowpack (SWE) data across the Sierra Nevada.  
+- **[SWEViz](https://emontoya2.shinyapps.io/sweviz/)**: A Shiny app designed for visualizing snowpack (SWE) data across the Sierra Nevada.  
 
-- **SkillTrackGE**: This interactive Shiny app allows one to explore and analyze the completion rates of key GE areas using data from a CSV file. It calculates the overall conditional and unconditional percentage of students who have not completed a selected GE area.
-
+ 
 ## Interested in conducting research?
 
 Are you interested in environmental statistics or data analysis? If you have a dataset or a research question you're curious about, feel free to **[contact me](mailto:emontoya2@csub.edu)**. I would be happy to explore potential research collaborations.
