@@ -31,7 +31,8 @@ When time permits, I focus on developing **R packages** and **R Shiny applicatio
  
 ## Interested in conducting research?
 
-Are you interested in environmental statistics or data analysis? If you have a dataset or a research question you're curious about, feel free to **[contact me](mailto:emontoya2@csub.edu)**. I would be happy to explore potential research collaborations.
+Are you interested in environmental statistics, data analysis, or building interactive tools like Shiny apps?
+If you have a dataset, a research question, or an idea for a data-driven application, feel free to **[contact me](mailto:emontoya2@csub.edu)**. I would be happy to explore potential research collaborations.
 
 ##  Publications and Works in Progress 
 
