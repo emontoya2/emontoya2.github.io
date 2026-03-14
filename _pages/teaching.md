@@ -11,8 +11,8 @@ header:
 
 
     
-## Fall 2025
+## Summer 2026 (tentative) and Fall 2026
 
-* Math 4210: Regression Modeling and Analysis (section 01)
-    + This course is an integral part of the Data Science curriculum, providing a strong foundation in regression modeling and analysis. With a focus on linear models, students will explore key techniques used in data-driven decision-making, predictive analytics, and statistical modeling. Through hands-on applications in R, this course equips students with essential skills for analyzing real-world datasets, developing models, and interpreting results -- core competencies in data science.
-    + **Catalog Description**: Advanced course in applied regression analysis. Students develop a sense of the applicability of regression as a tool for analysis of data. Topics include: linear regression, randomization tests for linear regression, correlation analysis, model diagnostics and remedial measures, matrix algebra notation and literacy for developing concepts of linear regression, variable and model selection techniques. Additional topics may include Poisson regression, logistic regression, path analysis, forecasting, and special topics selected by instructor. Statistics software R is used throughout the course. 
+* Math 3200: Probability Theory  
+    + This course is an integral part of the Statistics and Data Science curriculum, providing the statistical foundation for modeling randomness and uncertainty in data. Students develop an understanding of probability as the framework underlying statistical modeling and inference. Through analytical reasoning and computational exploration in R, students learn how probability models describe random phenomena and support modern statistical methods used in data science.
+    + **Catalog Description**: Topics include: basic probability theory, combinatorial methods, independence, conditional and marginal probability, probability models for random phenomena, random variables, probability distributions, distributions of functions of random variables, mathematical expectation, covariance and correlation, conditional expectation, asymptotic distributions, and sampling distributions. The course makes use of the statistical program R to evaluate and graph probability models and distribution functions, and to simulate realizations of random variables.
