@@ -11,7 +11,7 @@ header:
 
 
     
-## Summer 2026 (tentative) and Fall 2026
+## Fall 2026
 
 * Math 3200: Probability Theory  
     + This course is an integral part of the Data Science curriculum, providing the statistical foundation for modeling randomness and uncertainty in data. Students develop an understanding of probability as the framework underlying statistical modeling and inference. Through statistical reasoning, students learn how probability models describe random phenomena and support modern statistical methods used in data science.
