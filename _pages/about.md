@@ -42,6 +42,7 @@ Experience
 ======
 California State University, Bakersfield
   + Professor of Statistics, 2020 – present
+  + Associate Chair, Department of Mathematics, 2026–present
   + Faculty Director of General Education, 	 2023-2026
   + Director of the CSUB CREST Center, 	 2016-2022
   + Associate Professor of Statistics, 2015 – 2020
