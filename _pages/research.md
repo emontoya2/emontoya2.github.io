@@ -47,8 +47,8 @@ Visit <a href="https://orcid.org/0000-0001-5040-5063" target="_blank">ORCID</a> 
 <!-- ### Works in Progress 
 
 <!--
-+ Montoya, E.L. "More efficient smoothing parameter selection for regularized functional principal component using generalized degrees of freedom" (working title)-->
++ Montoya, E.L. "More efficient smoothing parameter selection for regularized functional principal component using generalized degrees of freedom" (working title)
 
 + Montoya, E.L. "A test for monotonic association in a functional single index model" (working title)
 
-+ Montoya, E.L., W. Meiring, and Dozier, J."Quantifying the Variation in the Annual Progression of Snow Accumulation and Melt in the Sierra Nevada: A Functional Data Analysis Approach." (working title)
++ Montoya, E.L., W. Meiring, and Dozier, J."Quantifying the Variation in the Annual Progression of Snow Accumulation and Melt in the Sierra Nevada: A Functional Data Analysis Approach." (working title)-->
